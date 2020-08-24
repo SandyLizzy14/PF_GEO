@@ -1,0 +1,17 @@
+#map {
+height: 80%;
+width: 100%;
+
+}
+
+
+body {
+  background-color: "white";
+
+}
+
+#titulo {
+  text-align: center;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
